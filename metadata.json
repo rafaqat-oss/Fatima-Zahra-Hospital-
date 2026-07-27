@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Fatima Zahra Hospital",
+  "description": "Welfare \u0026 Charity Hospital Management System with Gemini AI Assistant for Fatima Zahra Hospital in Ranewal Syedan, Gujrat.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
